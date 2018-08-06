@@ -1,2 +1,3 @@
-
-Testeergser serh
+<?
+echo "Testeergser serh";
+ ?>
